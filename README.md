@@ -1,7 +1,7 @@
 # 2017 Resolutions
 Just a convenient place to track my new year resolutions. All numbers are just the minimum.
 
-### 30 Online courses
+### 30 Online courses ![Progress](http://progressed.io/bar/4)
 2016 was a great year for learning a lot of new things, let's keep up learning.
 
 1. [Learn DevOps: Scaling apps On-Premise and in the Cloud][1] ([Certificate][2])
