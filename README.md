@@ -9,6 +9,10 @@ Just a convenient place to track my new year resolutions. All numbers are just t
 ### 6 Books
 Not so high expectations here, I am not that fast reader.
 
+Reading
+
+1. Web Development With Go
+
 ### 1 Drawing
 I liked drawing a long time ago. I would like to start again so let's start with one.
 
