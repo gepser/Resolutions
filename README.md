@@ -11,7 +11,7 @@ Not so high expectations here, I am not that fast reader.
 
 Reading
 
-1. Web Development With Go
+1. [Web Development with Go: Building Scalable Web Apps and RESTful Services][book1]
 
 ### 1 Drawing
 I liked drawing a long time ago. I would like to start again so let's start with one.
@@ -30,3 +30,5 @@ This one is hard, my current weight is 78,5 kg and I am already on diet and exce
 
 [1]: https://www.udemy.com/learn-devops-scaling-apps-on-premise-and-in-the-cloud
 [2]: http://ude.my/UC-DVEVEW3R
+
+[book1]: https://www.amazon.es/Web-Development-Go-Building-Scalable/dp/1484210530
