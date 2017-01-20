@@ -9,7 +9,7 @@ Just a convenient place to track my new year resolutions. All numbers are just t
 ### 6 Books
 Not so high expectations here, I am not that fast reader.
 
-Reading
+Read
 
 1. [Web Development with Go: Building Scalable Web Apps and RESTful Services][book1]
 
