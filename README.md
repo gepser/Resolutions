@@ -9,7 +9,7 @@ Just a convenient place to track my new year resolutions. All numbers are just t
 ### 6 Books ![Progress](http://progressed.io/bar/16)
 Not so high expectations here, I am not that fast reader.
 
-Read
+**Read**
 
 1. [Web Development with Go: Building Scalable Web Apps and RESTful Services][book1]
 
