@@ -6,7 +6,7 @@ Just a convenient place to track my new year resolutions. All numbers are just t
 
 1. [Learn DevOps: Scaling apps On-Premise and in the Cloud][1] ([Certificate][2])
 
-### 6 Books
+### 6 Books ![Progress](http://progressed.io/bar/16)
 Not so high expectations here, I am not that fast reader.
 
 Read
