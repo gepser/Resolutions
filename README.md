@@ -13,6 +13,10 @@ Not so high expectations here, I am not that fast reader.
 
 1. [Web Development with Go: Building Scalable Web Apps and RESTful Services][book1]
 
+**Reading**
+
+2. [Building Microservices][book2]
+
 ### 1 Drawing
 I liked drawing a long time ago. I would like to start again so let's start with one.
 
@@ -32,3 +36,4 @@ This one is hard, my current weight is 78,5 kg and I am already on diet and exce
 [2]: http://ude.my/UC-DVEVEW3R
 
 [book1]: https://www.amazon.es/Web-Development-Go-Building-Scalable/dp/1484210530
+[book2]: https://www.safaribooksonline.com/library/view/building-microservices/9781491950340
