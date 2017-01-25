@@ -26,8 +26,9 @@ Entrepreneurship coding, contributing at open source projects and coding for fun
 
 ### 10 blog posts
 
-### 1 Trip outside the country
-Ok, this is cheating, I already have the tickets.
+### 1 Trip outside the country ![Progress](http://progressed.io/bar/100)
+
+1. Panama (Jan 05 - Jan 13)
 
 ### Weigh 72,5 kg/160 lb
 This one is hard, my current weight is 78,5 kg and I am already on diet and excercise.
