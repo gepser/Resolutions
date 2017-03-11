@@ -25,7 +25,7 @@ Just a convenient place to track my new year resolutions. All numbers are just t
 15. Photography
 16. Health
 
-### 6 Books ![Progress](http://progressed.io/bar/16)
+### 6 Books ![Progress](http://progressed.io/bar/33)
 Not so high expectations here, I am not that fast reader.
 
 **Read**
