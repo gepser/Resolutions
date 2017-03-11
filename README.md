@@ -40,7 +40,7 @@ Not so high expectations here, I am not that fast reader.
 ### 1 Drawing
 I liked drawing a long time ago. I would like to start again so let's start with one.
 
-### 1000 Github contributions ![Progress](http://progressed.io/bar/9)
+### 1000 Github contributions ![Progress](http://progressed.io/bar/20)
 Here is the magic. I have many things I want to code.
 Entrepreneurship coding, contributing at open source projects and coding for fun are Ok. Coding at work doesn't count.
 Originally I thought about tracking days coding per year but it is easier to track just the number of contributions since Github has [a nice UI for this][githubui].
