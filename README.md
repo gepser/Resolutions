@@ -36,6 +36,7 @@ Not so high expectations here, I am not that fast reader.
 
 1. [Building Microservices][book2]
 2. [Creativity, Inc.][book3]
+3. [Data and Goliat][book4]
 
 ### 1 Drawing
 I liked drawing a long time ago. I would like to start again so let's start with one.
@@ -60,5 +61,6 @@ This one is hard, my current weight is 78,5 kg and I am already on diet and exce
 [book1]: https://www.amazon.es/Web-Development-Go-Building-Scalable/dp/1484210530
 [book2]: https://www.safaribooksonline.com/library/view/building-microservices/9781491950340
 [book3]: https://www.amazon.es/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012
+[book4]: https://www.amazon.es/Data-Goliath-Battles-Collect-Control/dp/039335217X
 
 [githubui]: https://github.com/gepser?tab=overview&from=2017-12-01&to=2017-12-31
