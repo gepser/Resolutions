@@ -5,6 +5,7 @@ Just a convenient place to track my new year resolutions. All numbers are just t
 2016 was a great year for learning a lot of new things, let's keep up learning.
 
 1. [Learn DevOps: Scaling apps On-Premise and in the Cloud][1] ([Certificate][2])
+2. [CI and CD with AWS CodePipeline, Jenkins and AWS CodeDeploy][3]
 
 **Possible topics**
 
@@ -58,6 +59,8 @@ This one is hard, my current weight is 78,5 kg and I am already on diet and exce
 
 [1]: https://www.udemy.com/learn-devops-scaling-apps-on-premise-and-in-the-cloud
 [2]: http://ude.my/UC-DVEVEW3R
+[3]: https://www.udemy.com/ci-and-cd-with-aws-codepipeline-jenkins-and-aws-codedeploy/
+
 
 [bookread1]: https://www.amazon.es/Web-Development-Go-Building-Scalable/dp/1484210530
 [bookread2]: https://www.goodreads.com/book/show/32293805-continuous-integration-and-deployment-with-docker-and-rancher
