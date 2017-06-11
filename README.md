@@ -34,6 +34,7 @@ Not so high expectations here, I am not that fast reader.
 
 1. [Web Development with Go: Building Scalable Web Apps and RESTful Services][bookread1]
 2. [Continuous Integration and Deployment with Docker and Rancher][bookread2]
+3. [The Clean Coder: A Code of Conduct for Professional Programmers][bookread3]
 
 **Reading**
 
@@ -67,6 +68,7 @@ This one is hard, my current weight is 78,5 kg and I am already on diet and exce
 
 [bookread1]: https://www.amazon.es/Web-Development-Go-Building-Scalable/dp/1484210530
 [bookread2]: https://www.goodreads.com/book/show/32293805-continuous-integration-and-deployment-with-docker-and-rancher
+[bookread3]: https://www.goodreads.com/book/show/10284614-the-clean-coder
 
 [book1]: https://www.safaribooksonline.com/library/view/building-microservices/9781491950340
 [book2]: https://www.amazon.es/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012
