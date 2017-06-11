@@ -6,7 +6,7 @@ Just a convenient place to track my new year resolutions. All numbers are just t
 
 1. [Learn DevOps: Scaling apps On-Premise and in the Cloud][1] ([Certificate][2])
 2. [CI and CD with AWS CodePipeline, Jenkins and AWS CodeDeploy][3]
-3. [Angular 2 (or 4) & NodeJS - The Practical MEAN Stack Guid][[Certificate][4])
+3. [Angular 2 (or 4) & NodeJS - The Practical MEAN Stack Guid][4] ([Certificate][5])
 
 **Possible topics**
 
@@ -61,7 +61,8 @@ This one is hard, my current weight is 78,5 kg and I am already on diet and exce
 [1]: https://www.udemy.com/learn-devops-scaling-apps-on-premise-and-in-the-cloud
 [2]: http://ude.my/UC-DVEVEW3R
 [3]: https://www.udemy.com/ci-and-cd-with-aws-codepipeline-jenkins-and-aws-codedeploy/
-[4]: https://udemy-certificate.s3.amazonaws.com/image/UC-5IEPB8KS.jpg
+[4]: https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/
+[5]: https://udemy-certificate.s3.amazonaws.com/image/UC-5IEPB8KS.jpg
 
 
 [bookread1]: https://www.amazon.es/Web-Development-Go-Building-Scalable/dp/1484210530
