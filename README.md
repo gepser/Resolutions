@@ -44,7 +44,7 @@ Not so high expectations here, I am not that fast reader.
 3. [Data and Goliat][book3]
 4. [Hacking: The Art of Exploitation][book4]
 
-### 1 Drawing
+### 1 Drawing ![Progress](http://progressed.io/bar/100)
 I liked drawing a long time ago. I would like to start again so let's start with one.
 
 Well, it is an easy one but [here it is][drawing1].
@@ -59,6 +59,7 @@ Originally I thought about tracking days coding per year but it is easier to tra
 ### 1 Trip outside the country ![Progress](http://progressed.io/bar/100)
 
 1. Panama (Jan 05 - Jan 13)
+2. Denver, CO (Jul 12 - Jul 16)
 
 ### Weigh 72,5 kg/160 lb
 This one is hard, my current weight is 78,5 kg and I am already on diet and excercise.
