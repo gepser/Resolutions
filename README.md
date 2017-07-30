@@ -47,6 +47,8 @@ Not so high expectations here, I am not that fast reader.
 ### 1 Drawing
 I liked drawing a long time ago. I would like to start again so let's start with one.
 
+Well, it is an easy one but [here it is][drawing1].
+
 ### 1000 Github contributions ![Progress](http://progressed.io/bar/24)
 Here is the magic. I have many things I want to code.
 Entrepreneurship coding, contributing at open source projects and coding for fun are Ok. Coding at work doesn't count.
@@ -77,5 +79,7 @@ This one is hard, my current weight is 78,5 kg and I am already on diet and exce
 [book2]: https://www.amazon.es/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012
 [book3]: https://www.amazon.es/Data-Goliath-Battles-Collect-Control/dp/039335217X
 [book4]: https://www.goodreads.com/book/show/20329201-hacking
+
+[drawing1]: https://twitter.com/gepser/status/883189699040464896
 
 [githubui]: https://github.com/gepser?tab=overview&from=2017-12-01&to=2017-12-31
