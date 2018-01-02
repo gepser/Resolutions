@@ -1,7 +1,7 @@
 # 2018 Resolutions
 Just a convenient place to track my new year resolutions.
 
-This are the 2018 resolutions, go [here](/archive/resolutions2017.md) if you want to take a look at the 2017 resolutions
+This are the 2018 resolutions, go [here if you want to take a look at the 2017 resolutions](/archive/resolutions2017.md).
 
 ### 25 Online courses ![Progress](http://progressed.io/bar/0)
 2017 was a great year for learning new things but my expectations were a little high (30 courses), let's try with a little bit less than that.
