@@ -24,7 +24,7 @@ Just a convenient place to track my new year resolutions. All numbers are just t
 18. [Building a Deployment Pipeline with Jenkins][course18]
 19. [Go Programming for Microservices][course19]
 20. [Deploying Applications with Ansible][course20]
-21. [JavaScript: Beyond the Basics][course23]
+21. [JavaScript: Beyond the Basics][course21]
 
 **Possible topics**
 
