@@ -12,7 +12,7 @@ Just a convenient place to track my new year resolutions. All numbers are just t
 6. [Getting Started with Cybersecurity Science][course6]
 7. [Security Threat Detection][course7]
 8. [Go Programming for Distributed Computing][course8]
-9. [Go Web Services][course9]
+9. Go Web Services
 10. [Introduction to Kubernetes][course10]
 11. [Getting Started with Amazon Web Services (AWS)][course11]
 12. [Managing Infrastructure as Code with Terraform][course12]
