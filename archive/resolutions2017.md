@@ -80,7 +80,7 @@ Originally I thought about tracking days coding per year but it is easier to tra
 1. Panama (Jan 05 - Jan 13)
 2. Denver, CO (Jul 12 - Jul 16)
 
-### Weigh 72,5 kg/160 lb
+### Weight 72,5 kg/160 lb
 This one is hard, my current weight is 78,5 kg and I am already on diet and excercise.
 
 [certificate1]: http://ude.my/UC-DVEVEW3R
