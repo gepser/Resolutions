@@ -9,8 +9,12 @@ This are the 2018 resolutions, go [here if you want to take a look at the 2017 r
 1. [Introduction to Cybersecurity for Business](./certificates/Coursera%20Z8SX8AVLK4CE.pdf)
 2. [Cyber Threats and Attack Vectors](./certificates/Coursera%20EUDCHQBK222Q.pdf)
 
-### 10 Books ![Progress](http://progressed.io/bar/0)
+### 10 Books ![Progress](http://progressed.io/bar/50)
 On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a little bit more.
+
+1. [Go in Action][readbook1]
+2. [The Subtle Art of Not Giving a F*ck][readbook2]
+3. [The 10% Entrepreneur][readbook3]
 
 **Reading**
 
@@ -22,7 +26,7 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 ### 2 Drawings ![Progress](http://progressed.io/bar/0)
 Ok, last year I just got 1 here, let's try with 2 now.
 
-### 1000 Github contributions ![Progress](http://progressed.io/bar/7)
+### 1000 Github contributions ![Progress](http://progressed.io/bar/18)
 This doesn't mean too much but I will track it again just for fun. I didn't make it last year, not even the half of it, but I will keep the bar high here. I have plans to contribute more to the Open Source world. And here is [a nice UI][githubui] just to track this.
 
 ### 5 blog posts
@@ -38,5 +42,9 @@ This one is hard, last year didn't make it. I never recovered my weight after my
 [book2]: https://www.amazon.es/Data-Goliath-Battles-Collect-Control/dp/039335217X
 [book3]: https://www.goodreads.com/book/show/20329201-hacking
 [book4]: https://www.amazon.es/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012
+
+[readbook1]: https://www.beek.io/libros/go-in-action-b2fcfbfe-004c-4313-a441-06a7f68b4ee0
+[readbook2]: https://www.beek.io/libros/the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-living-a-good-life-448f849d-244f-484e-8bf5-db5cbc977e29
+[readbook3]: https://www.beek.io/libros/the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job-by-patrick-j-mcginnis
 
 [githubui]: https://github.com/gepser?tab=overview&from=2018-12-01&to=2018-12-31
