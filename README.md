@@ -9,7 +9,7 @@ This are the 2018 resolutions, go [here if you want to take a look at the 2017 r
 1. [Introduction to Cybersecurity for Business](./certificates/Coursera%20Z8SX8AVLK4CE.pdf)
 2. [Cyber Threats and Attack Vectors](./certificates/Coursera%20EUDCHQBK222Q.pdf)
 
-### 10 Books ![Progress](http://progressed.io/bar/30)
+### 10 Books ![Progress](http://progressed.io/bar/40)
 On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a little bit more.
 
 1. [Go in Action][readbook1]
