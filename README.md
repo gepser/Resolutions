@@ -15,6 +15,7 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 1. [Go in Action][readbook1]
 2. [The Subtle Art of Not Giving a F*ck][readbook2]
 3. [The 10% Entrepreneur][readbook3]
+4. [Hit Refresh][readbook4]
 
 **Reading**
 
@@ -46,5 +47,6 @@ This one is hard, last year didn't make it. I never recovered my weight after my
 [readbook1]: https://www.beek.io/libros/go-in-action-b2fcfbfe-004c-4313-a441-06a7f68b4ee0
 [readbook2]: https://www.beek.io/libros/the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-living-a-good-life-448f849d-244f-484e-8bf5-db5cbc977e29
 [readbook3]: https://www.beek.io/libros/the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job-by-patrick-j-mcginnis
+[readbook4]: https://www.beek.io/libros/hit-refresh-the-quest-to-rediscover-microsoft-s-soul-and-imagine-a-better-future-for-everyone-9c126547-9f57-42fa-9060-c53562387eb0
 
 [githubui]: https://github.com/gepser?tab=overview&from=2018-12-01&to=2018-12-31
