@@ -25,6 +25,10 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 3. [Hacking: The Art of Exploitation][book3]
 4. [Creativity Inc.][book4] (Reading it again because is such a great book and I love it, this time I am reading it slower, enjoying every word)
 
+**About to read**
+1. [Kubernetes Up and Running] [abouttoread1]
+2. [Site Reliability Engineering] [abouttoread2]
+
 ### 2 Drawings ![Progress](http://progressed.io/bar/0)
 Ok, last year I just got 1 here, let's try with 2 now.
 
@@ -50,5 +54,9 @@ This one is hard, last year didn't make it. I never recovered my weight after my
 [readbook3]: https://www.beek.io/libros/the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job-by-patrick-j-mcginnis
 [readbook4]: https://www.beek.io/libros/hit-refresh-the-quest-to-rediscover-microsoft-s-soul-and-imagine-a-better-future-for-everyone-9c126547-9f57-42fa-9060-c53562387eb0
 [readbook5]: https://www.beek.io/libros/why-we-sleep-unlocking-the-power-of-sleep-and-dreams
+
+[abouttoread1]: https://www.beek.io/libros/kubernetes-up-running
+[abouttoread2]: https://www.beek.io/libros/site-reliability-engineering-how-google-runs-production-systems-by-betsy-beyer
+
 
 [githubui]: https://github.com/gepser?tab=overview&from=2018-12-01&to=2018-12-31
