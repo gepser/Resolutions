@@ -26,8 +26,8 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 4. [Creativity Inc.][book4] (Reading it again because is such a great book and I love it, this time I am reading it slower, enjoying every word)
 
 **About to read**
-1. [Kubernetes Up and Running] [abouttoread1]
-2. [Site Reliability Engineering] [abouttoread2]
+1. [Kubernetes Up and Running][abouttoread1]
+2. [Site Reliability Engineering][abouttoread2]
 
 ### 2 Drawings ![Progress](http://progressed.io/bar/0)
 Ok, last year I just got 1 here, let's try with 2 now.
