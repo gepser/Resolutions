@@ -9,13 +9,14 @@ This are the 2018 resolutions, go [here if you want to take a look at the 2017 r
 1. [Introduction to Cybersecurity for Business](./certificates/Coursera%20Z8SX8AVLK4CE.pdf)
 2. [Cyber Threats and Attack Vectors](./certificates/Coursera%20EUDCHQBK222Q.pdf)
 
-### 10 Books ![Progress](http://progressed.io/bar/40)
+### 10 Books ![Progress](http://progressed.io/bar/50)
 On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a little bit more.
 
 1. [Go in Action][readbook1]
 2. [The Subtle Art of Not Giving a F*ck][readbook2]
 3. [The 10% Entrepreneur][readbook3]
 4. [Hit Refresh][readbook4]
+5. [Why we sleep][readbook5]
 
 **Reading**
 
@@ -48,5 +49,6 @@ This one is hard, last year didn't make it. I never recovered my weight after my
 [readbook2]: https://www.beek.io/libros/the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-living-a-good-life-448f849d-244f-484e-8bf5-db5cbc977e29
 [readbook3]: https://www.beek.io/libros/the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job-by-patrick-j-mcginnis
 [readbook4]: https://www.beek.io/libros/hit-refresh-the-quest-to-rediscover-microsoft-s-soul-and-imagine-a-better-future-for-everyone-9c126547-9f57-42fa-9060-c53562387eb0
+[readbook5]: https://www.beek.io/libros/why-we-sleep-unlocking-the-power-of-sleep-and-dreams
 
 [githubui]: https://github.com/gepser?tab=overview&from=2018-12-01&to=2018-12-31
