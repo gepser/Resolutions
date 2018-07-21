@@ -55,7 +55,7 @@ Not so high expectations here, I am not that fast reader.
 3. [The Clean Coder: A Code of Conduct for Professional Programmers][bookread3]
 4. [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People][bookread4]
 5. [Creativity, Inc.][bookread5]
-6. [][bookread6]
+6. [Programming Interviews Exposed][bookread6]
 
 **Reading**
 
