@@ -9,7 +9,7 @@ This are the 2018 resolutions, go [here if you want to take a look at the 2017 r
 1. [Introduction to Cybersecurity for Business](./certificates/Coursera%20Z8SX8AVLK4CE.pdf)
 2. [Cyber Threats and Attack Vectors](./certificates/Coursera%20EUDCHQBK222Q.pdf)
 
-### 10 Books ![Progress](http://progressed.io/bar/50)
+### 10 Books ![Progress](http://progressed.io/bar/70)
 On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a little bit more.
 
 1. [Go in Action][readbook1]
@@ -17,6 +17,8 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 3. [The 10% Entrepreneur][readbook3]
 4. [Hit Refresh][readbook4]
 5. [Why we sleep][readbook5]
+6. [Measure What Matters][readbook6]
+7. [Culture Code][readbook7]
 
 **Reading**
 
@@ -54,6 +56,8 @@ This one is hard, last year didn't make it. I never recovered my weight after my
 [readbook3]: https://www.beek.io/libros/the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job-by-patrick-j-mcginnis
 [readbook4]: https://www.beek.io/libros/hit-refresh-the-quest-to-rediscover-microsoft-s-soul-and-imagine-a-better-future-for-everyone-9c126547-9f57-42fa-9060-c53562387eb0
 [readbook5]: https://www.beek.io/libros/why-we-sleep-unlocking-the-power-of-sleep-and-dreams
+[readbook6]: https://www.amazon.com/Measure-What-Matters/dp/B07BMJ4L1S/
+[readbook7]: https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/B077B1WF85/
 
 [abouttoread1]: https://www.beek.io/libros/kubernetes-up-running
 [abouttoread2]: https://www.beek.io/libros/site-reliability-engineering-how-google-runs-production-systems-by-betsy-beyer
