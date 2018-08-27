@@ -19,6 +19,7 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 5. [Why we sleep][readbook5]
 6. [Measure What Matters][readbook6]
 7. [Culture Code][readbook7]
+8. [Powerful: Building a Culture of Freedom and Responsibility][readbook8]
 
 **Reading**
 
@@ -34,7 +35,7 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 ### 2 Drawings ![Progress](http://progressed.io/bar/0)
 Ok, last year I just got 1 here, let's try with 2 now.
 
-### 1000 Github contributions ![Progress](http://progressed.io/bar/18)
+### 1000 Github contributions ![Progress](http://progressed.io/bar/26)
 This doesn't mean too much but I will track it again just for fun. I didn't make it last year, not even the half of it, but I will keep the bar high here. I have plans to contribute more to the Open Source world. And here is [a nice UI][githubui] just to track this.
 
 ### 5 blog posts
@@ -44,7 +45,8 @@ Las year I completely forgot about this one (too busy?), let's try again.
 Ok, I just moved out of the country. I now live in Mexico, so I guess that counts.
 
 ### Weight 72,5 kg/160 lb
-This one is hard, last year didn't make it. I never recovered my weight after my trip to Denver.
+This one is hard, last year didn't make it. I never recovered my weight after my trip to Denver and I just moved to Mexico where there are a lot of delicious food options.
+ - August 26, 2018: 83.3 kg
 
 [book1]: https://www.safaribooksonline.com/library/view/building-microservices/9781491950340
 [book2]: https://www.amazon.es/Data-Goliath-Battles-Collect-Control/dp/039335217X
@@ -58,6 +60,7 @@ This one is hard, last year didn't make it. I never recovered my weight after my
 [readbook5]: https://www.beek.io/libros/why-we-sleep-unlocking-the-power-of-sleep-and-dreams
 [readbook6]: https://www.amazon.com/Measure-What-Matters/dp/B07BMJ4L1S/
 [readbook7]: https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/B077B1WF85/
+[readbook8]: https://www.beek.io/libros/powerful-building-a-culture-of-freedom-and-responsibility
 
 [abouttoread1]: https://www.beek.io/libros/kubernetes-up-running
 [abouttoread2]: https://www.beek.io/libros/site-reliability-engineering-how-google-runs-production-systems-by-betsy-beyer
