@@ -31,7 +31,7 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 1. [Building Microservices][abandoned1]
 2. [Data and Goliat][abandoned2]
 3. [Hacking: The Art of Exploitation][abandoned3]
-4. [Creativity Inc.][abandone4] (Reading it again because is such a great book and I love it, this time I am reading it slower, enjoying every word)
+4. [Creativity Inc.][abandoned4] (Reading it again because is such a great book and I love it, this time I am reading it slower, enjoying every word)
 
 **About to read**
 1. [Kubernetes Up and Running][abouttoread1]
