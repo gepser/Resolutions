@@ -9,7 +9,7 @@ This are the 2018 resolutions, go [here if you want to take a look at the 2017 r
 1. [Introduction to Cybersecurity for Business](./certificates/Coursera%20Z8SX8AVLK4CE.pdf)
 2. [Cyber Threats and Attack Vectors](./certificates/Coursera%20EUDCHQBK222Q.pdf)
 
-### 10 Books ![Progress](http://progressed.io/bar/70)
+### 10 Books ![Progress](http://progressed.io/bar/80)
 On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a little bit more.
 
 1. [Go in Action][readbook1]
@@ -23,10 +23,15 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 
 **Reading**
 
-1. [Building Microservices][book1]
-2. [Data and Goliat][book2]
-3. [Hacking: The Art of Exploitation][book3]
-4. [Creativity Inc.][book4] (Reading it again because is such a great book and I love it, this time I am reading it slower, enjoying every word)
+1. [Eloquent Ruby][reading1]
+2. [The DevOps Handbook][reading2]
+
+**Temporarily abandoned**
+
+1. [Building Microservices][abandoned1]
+2. [Data and Goliat][abandoned2]
+3. [Hacking: The Art of Exploitation][abandoned3]
+4. [Creativity Inc.][abandone4] (Reading it again because is such a great book and I love it, this time I am reading it slower, enjoying every word)
 
 **About to read**
 1. [Kubernetes Up and Running][abouttoread1]
@@ -48,10 +53,13 @@ Ok, I just moved out of the country. I now live in Mexico, so I guess that count
 This one is hard, last year didn't make it. I never recovered my weight after my trip to Denver and I just moved to Mexico where there are a lot of delicious food options.
  - August 26, 2018: 83.3 kg
 
-[book1]: https://www.safaribooksonline.com/library/view/building-microservices/9781491950340
-[book2]: https://www.amazon.es/Data-Goliath-Battles-Collect-Control/dp/039335217X
-[book3]: https://www.goodreads.com/book/show/20329201-hacking
-[book4]: https://www.amazon.es/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012
+[abandoned1]: https://www.safaribooksonline.com/library/view/building-microservices/9781491950340
+[abandoned2]: https://www.amazon.es/Data-Goliath-Battles-Collect-Control/dp/039335217X
+[abandoned3]: https://www.goodreads.com/book/show/20329201-hacking
+[abandoned4]: https://www.amazon.es/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012
+
+[reading1]: https://www.beek.io/libros/eloquent-ruby
+[reading2]: https://www.beek.io/libros/the-devops-handbook-how-to-create-world-class-agility-reliability-security-in-technology-organizations
 
 [readbook1]: https://www.beek.io/libros/go-in-action-b2fcfbfe-004c-4313-a441-06a7f68b4ee0
 [readbook2]: https://www.beek.io/libros/the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-living-a-good-life-448f849d-244f-484e-8bf5-db5cbc977e29
