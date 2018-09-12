@@ -9,7 +9,7 @@ This are the 2018 resolutions, go [here if you want to take a look at the 2017 r
 1. [Introduction to Cybersecurity for Business](./certificates/Coursera%20Z8SX8AVLK4CE.pdf)
 2. [Cyber Threats and Attack Vectors](./certificates/Coursera%20EUDCHQBK222Q.pdf)
 
-### 10 Books ![Progress](http://progressed.io/bar/80)
+### 10 Books ![Progress](http://progressed.io/bar/90)
 On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a little bit more.
 
 1. [Go in Action][readbook1]
@@ -20,11 +20,13 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 6. [Measure What Matters][readbook6]
 7. [Culture Code][readbook7]
 8. [Powerful: Building a Culture of Freedom and Responsibility][readbook8]
+9. [The DevOps Handbook][readbook9]
 
 **Reading**
 
 1. [Eloquent Ruby][reading1]
-2. [The DevOps Handbook][reading2]
+2. [Leaders Eat Last][reading2]
+
 
 **Temporarily abandoned**
 
@@ -40,7 +42,7 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 ### 2 Drawings ![Progress](http://progressed.io/bar/0)
 Ok, last year I just got 1 here, let's try with 2 now.
 
-### 1000 Github contributions ![Progress](http://progressed.io/bar/26)
+### 1000 Github contributions ![Progress](http://progressed.io/bar/33)
 This doesn't mean too much but I will track it again just for fun. I didn't make it last year, not even the half of it, but I will keep the bar high here. I have plans to contribute more to the Open Source world. And here is [a nice UI][githubui] just to track this.
 
 ### 5 blog posts
@@ -59,7 +61,7 @@ This one is hard, last year didn't make it. I never recovered my weight after my
 [abandoned4]: https://www.amazon.es/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012
 
 [reading1]: https://www.beek.io/libros/eloquent-ruby
-[reading2]: https://www.beek.io/libros/the-devops-handbook-how-to-create-world-class-agility-reliability-security-in-technology-organizations
+[reading2]: https://www.beek.io/libros/leaders-eat-last-why-some-teams-pull-together-and-others-don-t
 
 [readbook1]: https://www.beek.io/libros/go-in-action-b2fcfbfe-004c-4313-a441-06a7f68b4ee0
 [readbook2]: https://www.beek.io/libros/the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-living-a-good-life-448f849d-244f-484e-8bf5-db5cbc977e29
@@ -69,6 +71,8 @@ This one is hard, last year didn't make it. I never recovered my weight after my
 [readbook6]: https://www.amazon.com/Measure-What-Matters/dp/B07BMJ4L1S/
 [readbook7]: https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/B077B1WF85/
 [readbook8]: https://www.beek.io/libros/powerful-building-a-culture-of-freedom-and-responsibility
+[readbook9]: https://www.beek.io/libros/the-devops-handbook-how-to-create-world-class-agility-reliability-security-in-technology-organizations
+
 
 [abouttoread1]: https://www.beek.io/libros/kubernetes-up-running
 [abouttoread2]: https://www.beek.io/libros/site-reliability-engineering-how-google-runs-production-systems-by-betsy-beyer
