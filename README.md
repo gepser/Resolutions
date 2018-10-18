@@ -9,7 +9,7 @@ This are the 2018 resolutions, go [here if you want to take a look at the 2017 r
 1. [Introduction to Cybersecurity for Business](./certificates/Coursera%20Z8SX8AVLK4CE.pdf)
 2. [Cyber Threats and Attack Vectors](./certificates/Coursera%20EUDCHQBK222Q.pdf)
 
-### 10 Books ![Progress](http://progressed.io/bar/100)
+### 10 Books ![Progress](http://progressed.io/bar/120)
 On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a little bit more.
 
 1. [Go in Action][readbook1]
@@ -22,6 +22,8 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 8. [Powerful: Building a Culture of Freedom and Responsibility][readbook8]
 9. [The DevOps Handbook][readbook9]
 10. [Leaders Eat Last][readbook10]
+11. [Rework][readbook11]
+12. [Deep Work][readbook12]
 
 **Reading**
 
@@ -71,6 +73,8 @@ This one is hard, last year didn't make it. I never recovered my weight after my
 [readbook8]: https://www.beek.io/libros/powerful-building-a-culture-of-freedom-and-responsibility
 [readbook9]: https://www.beek.io/libros/the-devops-handbook-how-to-create-world-class-agility-reliability-security-in-technology-organizations
 [readbook10]: https://www.beek.io/libros/leaders-eat-last-why-some-teams-pull-together-and-others-don-t
+[readbook11]: https://www.beek.io/libros/rework
+[readbook12]: https://www.beek.io/libros/deep-work-rules-for-focused-success-in-a-distracted-world
 
 [abouttoread1]: https://www.beek.io/libros/kubernetes-up-running
 [abouttoread2]: https://www.beek.io/libros/site-reliability-engineering-how-google-runs-production-systems-by-betsy-beyer
