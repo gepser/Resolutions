@@ -44,7 +44,7 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 ### 2 Drawings ![Progress](http://progressed.io/bar/0)
 Ok, last year I just got 1 here, let's try with 2 now.
 
-### 1000 Github contributions ![Progress](http://progressed.io/bar/37)
+### 1000 Github contributions ![Progress](http://progressed.io/bar/54)
 This doesn't mean too much but I will track it again just for fun. I didn't make it last year, not even the half of it, but I will keep the bar high here. I have plans to contribute more to the Open Source world. And here is [a nice UI][githubui] just to track this.
 
 ### 5 blog posts
