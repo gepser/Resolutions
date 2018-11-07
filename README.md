@@ -57,6 +57,7 @@ Ok, I just moved out of the country. I now live in Mexico, so I guess that count
 ### Weight 72,5 kg/160 lb
 This one is hard, last year didn't make it. I never recovered my weight after my trip to Denver and I just moved to Mexico where there are a lot of delicious food options.
  - August 26, 2018: 83.3 kg
+ - November 7, 2018: 82.2 kg
 
 [abandoned1]: https://www.safaribooksonline.com/library/view/building-microservices/9781491950340
 [abandoned2]: https://www.amazon.es/Data-Goliath-Battles-Collect-Control/dp/039335217X
