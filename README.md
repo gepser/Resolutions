@@ -8,6 +8,7 @@ This are the 2018 resolutions, go [here if you want to take a look at the 2017 r
 
 1. [Introduction to Cybersecurity for Business](./certificates/Coursera%20Z8SX8AVLK4CE.pdf)
 2. [Cyber Threats and Attack Vectors](./certificates/Coursera%20EUDCHQBK222Q.pdf)
+3. [Webinar - Preventive Security for Kubernetes](https://www.brighttalk.com/webcast/15077/339489/preventive-security-for-kubernetes)
 
 ### 10 Books ![Progress](http://progressed.io/bar/140)
 On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a little bit more.
