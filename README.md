@@ -10,7 +10,7 @@ This are the 2018 resolutions, go [here if you want to take a look at the 2017 r
 2. [Cyber Threats and Attack Vectors](./certificates/Coursera%20EUDCHQBK222Q.pdf)
 3. [Webinar - Preventive Security for Kubernetes](https://www.brighttalk.com/webcast/15077/339489/preventive-security-for-kubernetes)
 
-### 10 Books ![Progress](http://progressed.io/bar/140)
+### 10 Books ![Progress](http://progressed.io/bar/150)
 On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a little bit more.
 
 1. [Go in Action][readbook1]
@@ -27,6 +27,7 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 12. [Deep Work][readbook12]
 13. [Start With Why][readbook13]
 14. [How Google works (Spanish edition)][readbook14]
+15. [Alibaba][readbook15]
 
 **Reading**
 
@@ -46,7 +47,7 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 ### 2 Drawings ![Progress](http://progressed.io/bar/0)
 Ok, last year I just got 1 here, let's try with 2 now.
 
-### 1000 Github contributions ![Progress](http://progressed.io/bar/54)
+### 1000 Github contributions ![Progress](http://progressed.io/bar/64)
 This doesn't mean too much but I will track it again just for fun. I didn't make it last year, not even the half of it, but I will keep the bar high here. I have plans to contribute more to the Open Source world. And here is [a nice UI][githubui] just to track this.
 
 ### 5 blog posts
@@ -81,6 +82,7 @@ This one is hard, last year didn't make it. I never recovered my weight after my
 [readbook12]: https://www.beek.io/libros/deep-work-rules-for-focused-success-in-a-distracted-world
 [readbook13]: https://www.beek.io/libros/start-with-why-how-great-leaders-inspire-everyone-to-take-action-c198943c-e0ec-4d7e-a5ec-c90a145d0705
 [readbook14]: https://www.beek.io/libros/how-google-works
+[readbook15]: https://www.beek.io/libros/alibaba-the-house-that-jack-ma-built
 
 [abouttoread1]: https://www.beek.io/libros/kubernetes-up-running
 [abouttoread2]: https://www.beek.io/libros/site-reliability-engineering-how-google-runs-production-systems-by-betsy-beyer
