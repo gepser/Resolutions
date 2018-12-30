@@ -54,8 +54,9 @@ This doesn't mean too much but I will track it again just for fun. I didn't make
 ### 5 blog posts
 Las year I completely forgot about this one (too busy?), let's try again.
 
-### 1 Trip outside the country ![Progress](http://progressed.io/bar/100)
+### 1 Trip outside the country ![Progress](http://progressed.io/bar/400)
 Ok, I just moved out of the country. I now live in Mexico, so I guess that counts.
+Also, I traveled another 3 times this year.
 
 ### Weight 72,5 kg/160 lb
 This one is hard, last year didn't make it. I never recovered my weight after my trip to Denver and I just moved to Mexico where there are a lot of delicious food options.
