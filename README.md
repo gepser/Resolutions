@@ -3,12 +3,13 @@ Just a convenient place to track my new year resolutions.
 
 This are the 2018 resolutions, go [here if you want to take a look at the 2017 resolutions](/archive/resolutions2017.md).
 
-### 25 Online courses ![Progress](http://progressed.io/bar/12)
+### 25 Online courses ![Progress](http://progressed.io/bar/16)
 2017 was a great year for learning new things but my expectations were a little high (30 courses), let's try with a little bit less than that.
 
 1. [Introduction to Cybersecurity for Business](./certificates/Coursera%20Z8SX8AVLK4CE.pdf)
 2. [Cyber Threats and Attack Vectors](./certificates/Coursera%20EUDCHQBK222Q.pdf)
 3. [Webinar - Preventive Security for Kubernetes](https://www.brighttalk.com/webcast/15077/339489/preventive-security-for-kubernetes)
+4. [Website Performance Optimization](https://eu.udacity.com/course/website-performance-optimization--ud884)
 
 ### 10 Books ![Progress](http://progressed.io/bar/150)
 On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a little bit more.
