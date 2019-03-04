@@ -6,7 +6,7 @@ This are the 2019 resolutions, go [here if you want to take a look at the 2018 r
 ### 1 Tech Product ![Progress](http://progressed.io/bar/0)
 Ok, I'll go with this one for the first time. I want to build a web app, a mobile app or any kind of app.
 
-### 10 Online courses ![Progress](http://progressed.io/bar/0)
+### 10 Online courses ![Progress](http://progressed.io/bar/10)
 2018 was a great year for learning new things by I couldn't take all the courses I wanted. I'll go for quality instead of quantity this time.
 
 1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/2VKMBDWN96T9)
@@ -14,7 +14,7 @@ Ok, I'll go with this one for the first time. I want to build a web app, a mobil
 #### In progress
 [iOS Programming in 7 Days](https://learning.oreilly.com/videos/ios-programming-in/9781789135350)
 
-### 10 Books ![Progress](http://progressed.io/bar/0)
+### 10 Books ![Progress](http://progressed.io/bar/10)
 On 2018 I read 15 books but I felt like that was a little bit too much. I need more time for other things, so 10 books seems about right.
 
 1. [The Everything Store](https://www.beek.io/libros/the-everything-store-jeff-bezos-and-the-age-of-amazon-81eb3c1a-5693-49bb-9042-0851bc16bac7)
