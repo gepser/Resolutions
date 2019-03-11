@@ -11,6 +11,10 @@ This are the 2019 resolutions, go [here if you want to take a look at the 2018 r
 2. [Essential Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/QLLQMPC3YGLG)
 
 #### In progress
+[Essential Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) - [Certificate](...)
+
+[Elastic Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation) - [Certificate](...)
+
 [iOS Programming in 7 Days](https://learning.oreilly.com/videos/ios-programming-in/9781789135350)
 
 ---
