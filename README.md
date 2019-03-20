@@ -19,15 +19,16 @@ This are the 2019 resolutions, go [here if you want to take a look at the 2018 r
 
 ---
 
-![Progress](http://progressed.io/bar/10)
+![Progress](http://progressed.io/bar/20)
 ### 10 Books
 On 2018 I read 15 books but I felt like that was a little bit too much. I need more time for other things, so 10 books seems about right.
 
 1. [The Everything Store](https://www.beek.io/libros/the-everything-store-jeff-bezos-and-the-age-of-amazon-81eb3c1a-5693-49bb-9042-0851bc16bac7)
+2. [The Art of Learning: An Inner Journey to Optimal Performance](https://www.beek.io/libros/the-art-of-learning-an-inner-journey-to-optimal-performance)
 
 ---
 
-![Progress](http://progressed.io/bar/17)
+![Progress](http://progressed.io/bar/28)
 ### 1000 Github contributions
 This doesn't mean too much but I will track it again just for fun. I didn't make it last year but I did more than 60%, so I'll keep the bar high here. I have plans to contribute more to the Open Source world. And here is [a nice UI][githubui] just to track this.
 
@@ -61,6 +62,7 @@ This one is hard, but this is the year when I want to make more excersice and co
  - February 25 85.6 k6 <- Started to consume less carbs
  - February 28: 83 kg
  - March 10: 80.6 kg
+ - March 20: 79.2 kg <- Things are going a little bit slower than before
  
  ---
  
