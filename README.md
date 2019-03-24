@@ -3,7 +3,7 @@ Just a convenient place to track my new year resolutions.
 
 This are the 2019 resolutions, go [here if you want to take a look at the 2018 resolutions](/archive/resolutions2018.md).
 
-![Progress](http://progressed.io/bar/40)
+![Progress](http://progressed.io/bar/50)
 ### 10 Online courses
 2018 was a great year for learning new things by I couldn't take all the courses I wanted. I'll go for quality instead of quantity this time.
 
@@ -11,6 +11,7 @@ This are the 2019 resolutions, go [here if you want to take a look at the 2018 r
 2. [Essential Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/QLLQMPC3YGLG)
 3. [Essential Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/4W6AT3Q9QEH8)
 4. [Elastic Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation) - [Certificate](https://www.coursera.org/account/accomplishments/verify/G9SCH5C774KB)
+5. [Elastic Cloud Infrastructure: Containers and Services](https://www.coursera.org/learn/gcp-infrastructure-containers-services) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/PZPPFNAUYCTT)
 
 #### In progress
 [iOS Programming in 7 Days](https://learning.oreilly.com/videos/ios-programming-in/9781789135350)
