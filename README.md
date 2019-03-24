@@ -3,15 +3,15 @@ Just a convenient place to track my new year resolutions.
 
 This are the 2019 resolutions, go [here if you want to take a look at the 2018 resolutions](/archive/resolutions2018.md).
 
-![Progress](http://progressed.io/bar/20)
+![Progress](http://progressed.io/bar/30)
 ### 10 Online courses
 2018 was a great year for learning new things by I couldn't take all the courses I wanted. I'll go for quality instead of quantity this time.
 
 1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/2VKMBDWN96T9)
 2. [Essential Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/QLLQMPC3YGLG)
+3. [Essential Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/4W6AT3Q9QEH8)
 
 #### In progress
-[Essential Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) - [Certificate](...)
 
 [Elastic Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation) - [Certificate](...)
 
@@ -28,7 +28,7 @@ On 2018 I read 15 books but I felt like that was a little bit too much. I need m
 
 ---
 
-![Progress](http://progressed.io/bar/28)
+![Progress](http://progressed.io/bar/30)
 ### 1000 Github contributions
 This doesn't mean too much but I will track it again just for fun. I didn't make it last year but I did more than 60%, so I'll keep the bar high here. I have plans to contribute more to the Open Source world. And here is [a nice UI][githubui] just to track this.
 
