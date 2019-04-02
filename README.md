@@ -21,12 +21,13 @@ This are the 2019 resolutions, go [here if you want to take a look at the 2018 r
 
 ---
 
-![Progress](http://progressed.io/bar/20)
+![Progress](http://progressed.io/bar/30)
 ### 10 Books
 On 2018 I read 15 books but I felt like that was a little bit too much. I need more time for other things, so 10 books seems about right.
 
 1. [The Everything Store](https://www.beek.io/libros/the-everything-store-jeff-bezos-and-the-age-of-amazon-81eb3c1a-5693-49bb-9042-0851bc16bac7)
-2. [The Art of Learning: An Inner Journey to Optimal Performance](https://www.beek.io/libros/the-art-of-learning-an-inner-journey-to-optimal-performance)
+2. [The leader who had no title](https://www.beek.io/libros/title)
+3. [The Art of Learning: An Inner Journey to Optimal Performance](https://www.beek.io/libros/the-art-of-learning-an-inner-journey-to-optimal-performance)
 
 ---
 
