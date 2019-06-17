@@ -21,13 +21,15 @@ This are the 2019 resolutions, go [here if you want to take a look at the 2018 r
 
 ---
 
-![Progress](http://progressed.io/bar/30)
+![Progress](http://progressed.io/bar/50)
 ### 10 Books
 On 2018 I read 15 books but I felt like that was a little bit too much. I need more time for other things, so 10 books seems about right.
 
 1. [The Everything Store](https://www.beek.io/libros/the-everything-store-jeff-bezos-and-the-age-of-amazon-81eb3c1a-5693-49bb-9042-0851bc16bac7)
 2. [The leader who had no title](https://www.beek.io/libros/title)
 3. [The Art of Learning: An Inner Journey to Optimal Performance](https://www.beek.io/libros/the-art-of-learning-an-inner-journey-to-optimal-performance)
+4. [The Art of Invisibility](https://www.amazon.es/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504)
+5. [Radical Candor](https://www.amazon.com.mx/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509)
 
 ---
 
@@ -66,7 +68,7 @@ This one is hard, but this is the year when I want to make more excersice and co
  - February 28: 83 kg
  - March 10: 80.6 kg
  - March 20: 79.2 kg <- Things are going a little bit slower than before
- 
+ - March 31: <- Stopped diet for a while
  ---
  
  ![Progress](http://progressed.io/bar/0)
