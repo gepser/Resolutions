@@ -21,7 +21,7 @@ This are the 2019 resolutions, go [here if you want to take a look at the 2018 r
 
 ---
 
-![Progress](http://progressed.io/bar/50)
+![Progress](http://progressed.io/bar/60)
 ### 10 Books
 On 2018 I read 15 books but I felt like that was a little bit too much. I need more time for other things, so 10 books seems about right.
 
@@ -30,10 +30,11 @@ On 2018 I read 15 books but I felt like that was a little bit too much. I need m
 3. [The Art of Learning: An Inner Journey to Optimal Performance](https://www.beek.io/libros/the-art-of-learning-an-inner-journey-to-optimal-performance)
 4. [The Art of Invisibility](https://www.amazon.es/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504)
 5. [Radical Candor](https://www.amazon.com.mx/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509)
+6. [Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas-ebook/dp/B010MH1DAQ/)
 
 ---
 
-![Progress](http://progressed.io/bar/30)
+![Progress](http://progressed.io/bar/60)
 ### 1000 Github contributions
 This doesn't mean too much but I will track it again just for fun. I didn't make it last year but I did more than 60%, so I'll keep the bar high here. I have plans to contribute more to the Open Source world. And here is [a nice UI][githubui] just to track this.
 
