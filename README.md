@@ -21,7 +21,7 @@ This are the 2019 resolutions, go [here if you want to take a look at the 2018 r
 
 ---
 
-![Progress](http://progressed.io/bar/60)
+![Progress](http://progressed.io/bar/80)
 ### 10 Books
 On 2018 I read 15 books but I felt like that was a little bit too much. I need more time for other things, so 10 books seems about right.
 
@@ -31,6 +31,8 @@ On 2018 I read 15 books but I felt like that was a little bit too much. I need m
 4. [The Art of Invisibility](https://www.amazon.es/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504)
 5. [Radical Candor](https://www.amazon.com.mx/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509)
 6. [Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas-ebook/dp/B010MH1DAQ/)
+7. [It doesn't have to be crazy at work](https://www.beek.io/libros/it-doesn-t-have-to-be-crazy-at-work)
+8. [Remote](https://www.beek.io/libros/remote-office-not-required)
 
 ---
 
