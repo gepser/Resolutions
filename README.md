@@ -43,7 +43,7 @@ This doesn't mean too much but I will track it again just for fun. I didn't make
 
 ---
 
-![Progress](http://progressed.io/bar/26)
+![Progress](http://progressed.io/bar/25)
 ### 4 blog posts
 Las year I tried this one but all I got was one internal post. This year I'll try again at least with one post a quarter.
 
