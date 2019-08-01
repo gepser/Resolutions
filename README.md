@@ -21,7 +21,7 @@ This are the 2019 resolutions, go [here if you want to take a look at the 2018 r
 
 ---
 
-![Progress](http://progressed.io/bar/80)
+![Progress](http://progressed.io/bar/90)
 ### 10 Books
 On 2018 I read 15 books but I felt like that was a little bit too much. I need more time for other things, so 10 books seems about right.
 
@@ -33,6 +33,7 @@ On 2018 I read 15 books but I felt like that was a little bit too much. I need m
 6. [Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas-ebook/dp/B010MH1DAQ/)
 7. [It doesn't have to be crazy at work](https://www.beek.io/libros/it-doesn-t-have-to-be-crazy-at-work)
 8. [Remote](https://www.beek.io/libros/remote-office-not-required)
+9. [Outliers](https://www.beek.io/libros/outliers-the-story-of-success-fc5a6070-9285-409d-bca1-7cdad6959783)
 
 ---
 
@@ -42,7 +43,7 @@ This doesn't mean too much but I will track it again just for fun. I didn't make
 
 ---
 
-![Progress](http://progressed.io/bar/25)
+![Progress](http://progressed.io/bar/26)
 ### 4 blog posts
 Las year I tried this one but all I got was one internal post. This year I'll try again at least with one post a quarter.
 
