@@ -1,7 +1,7 @@
 # 2018 Resolutions
 Just a convenient place to track my new year resolutions.
 
-### 25 Online courses ![Progress](http://progressed.io/bar/16)
+### 25 Online courses ![Progress](https://us-central1-una-fiesta-bonita-1.cloudfunctions.net/progress/16)
 2017 was a great year for learning new things but my expectations were a little high (30 courses), let's try with a little bit less than that.
 
 1. [Introduction to Cybersecurity for Business](./certificates/Coursera%20Z8SX8AVLK4CE.pdf)
@@ -9,7 +9,7 @@ Just a convenient place to track my new year resolutions.
 3. [Webinar - Preventive Security for Kubernetes](https://www.brighttalk.com/webcast/15077/339489/preventive-security-for-kubernetes)
 4. [Website Performance Optimization](https://eu.udacity.com/course/website-performance-optimization--ud884)
 
-### 10 Books ![Progress](http://progressed.io/bar/150)
+### 10 Books ![Progress](https://us-central1-una-fiesta-bonita-1.cloudfunctions.net/progress/150)
 On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a little bit more.
 
 1. [Go in Action][readbook1]
@@ -43,16 +43,16 @@ On 2017 I read 6/6 books (and a few more in progress), so, let's try to read a l
 1. [Kubernetes Up and Running][abouttoread1]
 2. [Site Reliability Engineering][abouttoread2]
 
-### 2 Drawings ![Progress](http://progressed.io/bar/0)
+### 2 Drawings ![Progress](https://us-central1-una-fiesta-bonita-1.cloudfunctions.net/progress/0)
 Ok, last year I just got 1 here, let's try with 2 now.
 
-### 1000 Github contributions ![Progress](http://progressed.io/bar/64)
+### 1000 Github contributions ![Progress](https://us-central1-una-fiesta-bonita-1.cloudfunctions.net/progress/64)
 This doesn't mean too much but I will track it again just for fun. I didn't make it last year, not even the half of it, but I will keep the bar high here. I have plans to contribute more to the Open Source world. And here is [a nice UI][githubui] just to track this.
 
 ### 5 blog posts
 Las year I completely forgot about this one (too busy?), let's try again.
 
-### 1 Trip outside the country ![Progress](http://progressed.io/bar/400)
+### 1 Trip outside the country ![Progress](https://us-central1-una-fiesta-bonita-1.cloudfunctions.net/progress/400)
 Ok, I just moved out of the country. I now live in Mexico, so I guess that counts.
 Also, I traveled another 3 times this year.
 
