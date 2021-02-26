@@ -1,7 +1,7 @@
 # 2017 Resolutions
 Just a convenient place to track my new year resolutions. All numbers are just the minimum.
 
-### 30 Online courses ![Progress](http://progressed.io/bar/70)
+### 30 Online courses ![Progress](https://us-central1-una-fiesta-bonita-1.cloudfunctions.net/progress/70)
 2016 was a great year for learning a lot of new things, let's keep up learning.
 
 1. [Learn DevOps: Scaling apps On-Premise and in the Cloud][course1] ([Certificate][certificate1])
@@ -45,7 +45,7 @@ Just a convenient place to track my new year resolutions. All numbers are just t
 15. Photography
 16. Health
 
-### 6 Books ![Progress](http://progressed.io/bar/100)
+### 6 Books ![Progress](https://us-central1-una-fiesta-bonita-1.cloudfunctions.net/progress/100)
 Not so high expectations here, I am not that fast reader.
 
 **Read**
@@ -63,19 +63,19 @@ Not so high expectations here, I am not that fast reader.
 2. [Data and Goliat][book2]
 3. [Hacking: The Art of Exploitation][book3]
 
-### 1 Drawing ![Progress](http://progressed.io/bar/100)
+### 1 Drawing ![Progress](https://us-central1-una-fiesta-bonita-1.cloudfunctions.net/progress/100)
 I liked drawing a long time ago. I would like to start again so let's start with one.
 
 Well, it is an easy one but [here it is][drawing1].
 
-### 1000 Github contributions ![Progress](http://progressed.io/bar/36)
+### 1000 Github contributions ![Progress](https://us-central1-una-fiesta-bonita-1.cloudfunctions.net/progress/36)
 Here is the magic. I have many things I want to code.
 Entrepreneurship coding, contributing at open source projects and coding for fun are Ok. Coding at work doesn't count.
 Originally I thought about tracking days coding per year but it is easier to track just the number of contributions since Github has [a nice UI for this][githubui].
 
 ### 10 blog posts
 
-### 1 Trip outside the country ![Progress](http://progressed.io/bar/100)
+### 1 Trip outside the country ![Progress](https://us-central1-una-fiesta-bonita-1.cloudfunctions.net/progress/100)
 
 1. Panama (Jan 05 - Jan 13)
 2. Denver, CO (Jul 12 - Jul 16)
