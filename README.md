@@ -1,3 +1,5 @@
+**Note:** I'll find a better place for self tracking my growth. Probably I'll just write some post on [my blog](https://www.gepser.com/).
+
 # 2021 Resolutions
 Just a convenient place to track my new year resolutions.
 
